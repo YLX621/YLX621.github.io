@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-# About
 
 I am a 2024 college student from North University of China.I will start my English writing journey here.I will record some interesting stuff that happened around me and show my method.
 
