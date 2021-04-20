@@ -75,5 +75,3 @@ You can be the leader of your time and start slowly with ordinary leaders. To a 
 And who we are in the future depends on how we are now the leaders of our time.
 
 ![Rebirth](https://b.xinshengdaxue.com/images/heres-sth-wrong.jpg)
-
-# Not live for nothing

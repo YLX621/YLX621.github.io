@@ -161,3 +161,6 @@ When the universe rapidly explored and became a singularity, I became that singu
 ---
 
 Now, humans can prove that the universe began with a big bang. However, what mankind is more convinced is that a universe with a special preference for universal gravitation must start with a big bang before everything can be in order.
+
+---
+# See you in the next universe! 
