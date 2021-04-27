@@ -16,6 +16,10 @@ Always pay attention to cutting-edge technologies, and be curious and learning a
 
 There is only one occupation in a lifetime:Student.
 
+# My life curve.
+
+![](https://ri.firesbox.com/images/coverimage.gif)
+
 # Reborn
 
 ### Contact me
