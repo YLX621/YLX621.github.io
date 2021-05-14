@@ -1,3 +1,8 @@
+---
+layout: index
+permalink: /quotes/
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
